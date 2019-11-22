@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify :https://app.netlify.com/sites/wizardly-mayer-2f678a/overview
+* Link to the website deployed on Netlify :https://wizardly-mayer-2f678a.netlify.com/
